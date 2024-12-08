@@ -1,0 +1,10 @@
+{
+    "apple": {
+      "carbs_per_100g": 14,
+      "insulin_per_10g": 1
+    },
+    "banana": {
+      "carbs_per_100g": 22,
+      "insulin_per_10g": 1.5
+    }
+  }
